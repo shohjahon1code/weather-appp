@@ -1,0 +1,38 @@
+.wrapper {
+  max-width: 756px;
+  width: 100%;
+  min-height: 350px;
+  background-color: #1698c0;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.city {
+  background-color: #164f5c;
+  padding: 10px 16px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-size: 23px;
+}
+
+.weatherInfo {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.degree {
+  font-size: 60px;
+  color: white;
+}
+
+
+.action{
+  font-size: 30px;
+  color: #fff;
+  margin-bottom: 10px;
+}
